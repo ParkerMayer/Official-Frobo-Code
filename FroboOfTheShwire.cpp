@@ -83,7 +83,7 @@ void setup() {
 
 	delay(10);
 	autoRoutine(); // time to call auto!!
-	delay(500);
+	delay(8000000);
 
 }
 
